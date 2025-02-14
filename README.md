@@ -126,7 +126,7 @@ If you encounter any issues, check the following:
 
 If you have some problem, please contact me via
 
- - x: @james980114
- - discord: jamesybarra98114 
+ - x: @ethualtera
+ - telegram: @ethualtera
 
 
