@@ -27,7 +27,7 @@ The **Pump.Fun Sniper Bot** is an advanced trading bot for the Solana blockchain
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ilertha/Pump.fun-sniper-bot.git
+   git clone https://github.com/alexisssol/Pump.fun-sniper-bot.git
    cd Pump.fun-sniper-bot
    ```
 
@@ -126,7 +126,7 @@ If you encounter any issues, check the following:
 
 If you have some problem, please contact me via
 
- - x: @ilertha
- - telegram: @ilertha
+ - x: @alexis_s_sol
+ - telegram: @alexisssol
 
 
